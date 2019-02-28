@@ -48,7 +48,7 @@ This Project Show list of duties  and Update Duties
     implementation 'com.squareup.retrofit2:retrofit:2.4.0'
     implementation 'com.squareup.okhttp3:logging-interceptor:3.4.1'
     implementation 'com.squareup.retrofit2:converter-gson:3.4.1'
-    implementation 'com.squareup.retrofit2:adapter-rxjava:2.4.0;
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.4.0'
     implementation 'io.reactivex:rxandroid:1.1.0'
 
 
