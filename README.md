@@ -43,7 +43,21 @@ This Project Show list of duties  and Update Duties
 
     implementation group: 'org.mindrot', name: 'jbcrypt', version: '0.3m'
 
-	
+
+#### Retrofit ####
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    implementation 'com.squareup.retrofit2:converter-gson:3.4.1'
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.4.0;
+    implementation 'io.reactivex:rxandroid:1.1.0'
+
+
+
+#### Dagger ####
+    implementation 'com.google.dagger:dagger:2.14.1'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.14.1'
+
+
 #### Lint 
 		
 	Android Lint is used to scans Android project sources for potential bugs. 
