@@ -35,9 +35,9 @@ This Project Show list of duties  and Update Duties
 	REcyclerview is used for Showing List 
 	
 	
-#### Runtime Permission ####
+#### Location ####
 
-    implementation 'me.tankery.lib:permission-requester:1.1.0'
+	 implementation 'com.github.delight-im:Android-SimpleLocation:v1.0.1'
  
 #### bcrypt ####
 
